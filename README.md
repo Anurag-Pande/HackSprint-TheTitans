@@ -1,4 +1,6 @@
-
+## Team The Titans
+## Problem Statment "Commodity Price Prediction"
+## Build two Models One using Kalman Filter and Other using Tensorflow Keras LSTM
 
 
 ## What is Kalman Filter?
@@ -13,3 +15,4 @@ It's very important for the algorithm to keep track of the covariances of its es
 
 By default, the errors are assumed to be normally distributed, and this assumption allows the algorithm to calculate precise confidence intervals. It can, however, be implemented for non-normal errors.
 
+## What is LSTM (Long Short Term Memory)

@@ -3,7 +3,7 @@
 ## Build two Models One using Kalman Filter and Other using Tensorflow Keras LSTM
 
 
-## What is Kalman Filter?
+## 1) What is Kalman Filter?
 
 The Kalman filter is an algorithm that uses noisy observations of a system over time to estimate the parameters of the system and predict future observations. Note that some of systems are unobservable. At each time step, it makes a prediction, takes in a measurement, and updates itself based on how the prediction and measurement compare.
 
@@ -15,4 +15,4 @@ It's very important for the algorithm to keep track of the covariances of its es
 
 By default, the errors are assumed to be normally distributed, and this assumption allows the algorithm to calculate precise confidence intervals. It can, however, be implemented for non-normal errors.
 
-## What is LSTM (Long Short Term Memory)
+## 2) What is LSTM (Long Short Term Memory)
